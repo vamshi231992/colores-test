@@ -8,3 +8,5 @@ white
 
 pink
 iam adding this colrs
+
+adding before seconde color merge orange
