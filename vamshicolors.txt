@@ -3,4 +3,6 @@ hi this is main file
 red
 yellow
 green
+
+white
 iam adding this colrs
